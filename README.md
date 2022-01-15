@@ -40,3 +40,5 @@ The Credit Card Default Prediction materials here are licensed under the Creativ
  
 1. “Yeh, I. C., & Lien, C. H. (2009). The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. Expert Systems with Applications, 36(2), 2473-2480.” 
 2. The dataset can be found [here.](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
+
+Changed
